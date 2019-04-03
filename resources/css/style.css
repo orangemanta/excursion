@@ -25,11 +25,15 @@ h4 {
 
 }
 
-.purpose {
+.info {
   color: gray;
   font-size: 21px;
 }
 
 .camp {
   text-align: center;
+}
+
+h3.info {
+  text-align: right;
 }
